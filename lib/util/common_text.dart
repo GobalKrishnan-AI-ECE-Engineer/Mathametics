@@ -255,8 +255,8 @@ var maths_text = [
   "Geometry and measurement",
   "Length",
   "Volume",
-  "Mass"
-      "Time",
+  "Mass",
+  "Time",
   "Perimeter",
   "Area",
 ];
