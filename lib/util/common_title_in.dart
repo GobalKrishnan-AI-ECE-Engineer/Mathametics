@@ -202,7 +202,143 @@ var mm02 = [
   "Geometry and measurement",
   mm0204,
 ];
-var mm03 = [];
+
+var mm030101 = [];
+var mm030102 = ["Comparing whole numbers"];
+var mm030103 = ["Skip-counting by 5s", "Counting by 10s", "Skip-counting by 100s"];
+
+var mm0301 = [
+  "Place value",
+  mm030101,
+  "Comparing 3-digit numbers",
+  mm030102,
+  "Skip counting",
+  mm030103,
+];
+
+var mm030201 = ["Adding 1s, 10s and 100s", "Adding 3-digit numbers (no regrouping)"];
+var mm030202 = ["Subtracting 1s, 10s, and 100s", "Subtracting 3-digit numbers (no regrouping)"];
+var mm030203 = ["Breaking apart 3-digit addition problems", "Subtraction by breaking apart"];
+var mm030204 = ["Adding and subtracting on number line"];
+
+var mm0302 = [
+  "Adding 1s, 10s, and 100s",
+  mm030201,
+  "Subtracting 1s, 10s, and 100s",
+  mm030202,
+  "Adding and subtracting by breaking apart",
+  mm030203,
+  "Adding and subtracting using number line",
+  mm030204,
+];
+
+var mm030301 = [
+  "Addition using groups of 10 and 100",
+  "Addition 3-digit numbers",
+  "Solving 3-digit addition in your hand"
+];
+var mm030302 = [
+  "Worked example: Subtracting 3-digit numbers (regrouping)",
+  "Subtracting 3-digit numbers (regrouping)",
+  "Worked example: Subtracting 3-digit numbers (regrouping twice)",
+  "Worked example: Subtracting 3-digit numbers (regrouping from 0)"
+];
+var mm030303 = [
+  "Missing number for 3-digit addition within 1000",
+  "Missing number for 3-digit subtraction within 1000",
+];
+var mm030304 = ["Three digit addition word problems", "Three digit subtraction word problems"];
+
+var mm0303 = [
+  "Adding by regrouping",
+  mm030301,
+  "Subtracting by regrouping",
+  mm030302,
+  "Adding and subtracting missing value problems",
+  mm030303,
+  "Addition and subtraction word problems",
+  mm030304,
+];
+
+var mm030401 = [
+  "Equal groups",
+  "Introduction to multiplication",
+  "Multiplication as repeated addition",
+  "Multiplication on the number line",
+];
+var mm030402 = [];
+var mm030403 = ["Multiplication in real world context", "Multiplication word problem: soda party"];
+var mm030404 = ["Multiplying 10s"];
+var mm030405 = ["Multiplying with area model: 16 x 27", "Multiplying with area model: 78 x 65"];
+
+var mm0304 = [
+  "Intro to multiplication",
+  mm030401,
+  "Multiplication problems",
+  mm030402,
+  "Multiplication word problems",
+  mm030403,
+  "Multiply by 10s",
+  mm030404,
+  "Multiply 2-digit numbers with area model",
+  mm030405,
+];
+
+var mm030501 = [
+  "The idea of division",
+  "Division as equal groups",
+  "Visualizing division with arrays"
+];
+var mm030502 = [];
+var mm030503 = [];
+var mm030504 = [];
+var mm030505 = ["Division word problems"];
+
+var mm0305 = [
+  "Intro to division",
+  mm030501,
+  "Divide by 1,2,4,5, or 10",
+  mm030502,
+  "Divide by 3 or 6",
+  mm030503,
+  "Divide by 7, 8, or 9",
+  mm030504,
+  "Division word problems",
+  mm030505,
+];
+
+var mm030601 = ["Picture graphs", "Making picture graphs and line plots"];
+var mm0306 = ["Picture graphs", mm030601];
+
+var mm030701 = ["Comparing lengths", "Estimating lengths"];
+var mm030702 = ["Understanding volume (liters)"];
+var mm030703 = ["Understanding mass (grams and kilograms)"];
+
+var mm0307 = [
+  "Length",
+  mm030701,
+  "Volume",
+  mm030702,
+  "Mass",
+  mm030703,
+];
+
+var mm03 = [
+  "Numbers from 1 to 1000",
+  mm0301,
+  "Addition and subtraction without regrouping",
+  mm0302,
+  "Addition and subtraction with regrouping",
+  mm0303,
+  "Multiplication",
+  mm0304,
+  "Division",
+  mm0305,
+  "Smart charts",
+  mm0306,
+  "Geometry and measurement",
+  mm0307,
+];
 var mm04 = [];
 var mm05 = [];
 var mm06 = [];
