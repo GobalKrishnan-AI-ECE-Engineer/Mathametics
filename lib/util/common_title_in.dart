@@ -339,7 +339,124 @@ var mm03 = [
   "Geometry and measurement",
   mm0307,
 ];
-var mm04 = [];
+
+var mm040101 = [
+  "Using place value to add 3-digit numbers: part 1",
+  "Using place value to add 3-digit numbers: part 2",
+  "Adding 3-digit numbers"
+];
+var mm040102 = [
+  "Methods for subtracting 3-digit numbers",
+  "Worked example: Subtracting 3-digit numbers (regrouping twice)"
+];
+
+var mm0401 = [
+  "3-digit addition",
+  mm040101,
+  "3-digit subtraction",
+  mm040102,
+];
+
+var mm040201 = [
+  "Using area model and properties to multiply",
+  "Multiplying with area model: 78 x 65"
+];
+var mm040202 = ["Multiplying with distributive property"];
+var mm040203 = [
+  "Multiplying 2-digit by 1-digit",
+  "Multiplying 3-digit by 1-digit",
+  "Multiplying 3-digit by 1-digit (regrouping)",
+  "Multiplying 4-digit by 1-digit (regrouping)"
+];
+var mm040204 = [
+  "Multiplying 2-digit numbers",
+  "Multiplying multi-digit numbers",
+];
+
+var mm0402 = [
+  "Multiply by using area model",
+  mm040201,
+  "Multiply by using distributive property",
+  mm040202,
+  "Multiply by 1-digit numbers",
+  mm040203,
+  "Multi-digit multiplication",
+  mm040204,
+];
+
+var mm040301 = [
+  "Relating division to multiplication",
+];
+var mm040302 = [
+  "Division using place value",
+  "Division with area models",
+];
+var mm040303 = ["Quotients that are multiples of 10"];
+var mm040304 = [
+  "Intro to long division (no remainders)",
+  "Long division: 280÷5",
+  "Introduction to dividing by 2-digits"
+];
+
+var mm0403 = [
+  "Relate multiplication and division",
+  mm040301,
+  "Division: place value and area",
+  mm040302,
+  "Divide by 1 digit numbers",
+  mm040303,
+  "Multi digit division (no remainders)",
+  mm040304,
+];
+var mm040401 = ["Picture graphs", "Making picture graphs and line plots"];
+var mm040402 = ["Reading bar graphs: dog bones", "Creating a bar graph"];
+
+var mm0404 = [
+  "Picture graphs",
+  mm040401,
+  "Bar charts",
+  mm040402,
+];
+
+var mm040501 = ["Halves and fourths", "Equal parts of circles and rectangles"];
+var mm0405 = ["Fractions of shapes", mm040501];
+
+var mm040601 = ["Metric system: units of distance"];
+var mm040602 = ["Understanding volume (liters)", "Word problems with volume"];
+var mm040603 = ["Understanding mass (grams and kilograms)", "Word problems with mass"];
+var mm040604 = ["Telling time (labeled clock)", "Telling time (unlabeled clock)"];
+var mm040605 = ["Perimeter: introduction", "Finding perimeter when a side length is missing"];
+var mm040606 = ["Transitioning from unit squares to area formula"];
+
+var mm0406 = [
+  "Length",
+  mm040601,
+  "Volume",
+  mm040602,
+  "Mass",
+  mm040603,
+  "Time",
+  mm040604,
+  "Perimeter",
+  mm040605,
+  "Area",
+  mm040606,
+];
+
+var mm04 = [
+  "Addition and subtraction",
+  mm0401,
+  "Multiplication",
+  mm0402,
+  "Division",
+  mm0403,
+  "Smart charts",
+  mm0404,
+  "Halves and quarters",
+  mm0405,
+  "Geometry and measurement",
+  mm0406,
+];
 var mm05 = [];
 var mm06 = [];
 var mm07 = [];
