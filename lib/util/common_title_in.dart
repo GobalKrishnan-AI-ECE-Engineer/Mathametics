@@ -457,7 +457,200 @@ var mm04 = [
   "Geometry and measurement",
   mm0406,
 ];
-var mm05 = [];
+
+var mm050101 = [
+  "Adding 3-digit numbers",
+  "Relate place value to standard algorithm for multi-digit addition",
+  "Adding multi-digit numbers: 48,029+233,930"
+];
+var mm050102 = [
+  "Worked example: Subtracting 3-digit numbers (regrouping twice)",
+  "Multi-digit subtraction: 389,002-76,151",
+];
+
+var mm0501 = ["Multi-digit addition", mm050101, "Multi-digit subtraction", mm050102];
+
+var mm050201 = ["Multiply by using standard algorithm"];
+var mm050202 = [
+  "Multiplying 2-digit by 1-digit",
+  "Multiplying 3-digit by 1-digit",
+  "Multiplying 3-digit by 1-digit (regrouping)",
+  "Multiplying 4-digit by 1-digit (regrouping)"
+];
+var mm050203 = ["Multiplying 2-digit numbers", "Multiplying multi-digit numbers"];
+
+var mm0502 = [
+  "Multiply by using standard algorithm",
+  mm050201,
+  "Multiply by 1-digit numbers",
+  mm050202,
+  "Multi-digit multiplication",
+  mm050203
+];
+
+var mm050301 = [
+  "Intro to long division (no remainders)",
+  "Long division: 280÷5",
+  "Introduction to dividing by 2-digits"
+];
+var mm050302 = [
+  "Intro to remainders",
+  "Long division with remainders: 3771÷8",
+  "Long division with remainders: 2292÷4"
+];
+var mm050303 = ["Dividing by 2-digits: 9815÷65", "Dividing by 2-digits: 7182÷42"];
+
+var mm0503 = [
+  "Multi-digit division (no remainders)",
+  mm050301,
+  "Remainders",
+  mm050302,
+  "Multi-digit division (remainders)",
+  mm050303,
+];
+var mm0504 = [
+  "Intro to fractions",
+  "Recognise fractions",
+  "Understanding numerators and denominators",
+  "Fractions word problems",
+  "Equivalent fractions",
+];
+
+var mm050501 = ["Intro to fractions", "Cutting shapes into equal parts"];
+var mm050502 = ["Recognize fractions", "Recognizing fractions greater than 1"];
+var mm050503 = [
+  "Identifying numerators and denominators",
+];
+var mm050504 = ["Equivalent fractions", "Visualizing equivalent fractions"];
+
+var mm0505 = [
+  "Intro to decimals",
+  mm050501,
+  "Decimals on the number line",
+  mm050502,
+  "Decimals as fractions",
+  mm050503,
+  "Comparing decimals",
+  mm050504,
+];
+
+var mm050601 = ["Finding factors of a number"];
+var mm050602 = ["Finding factors and multiples"];
+
+var mm0506 = [
+  "Factors",
+  mm050601,
+  "Multiples",
+  mm050602,
+];
+
+var mm050701 = ["Interpreting picture graphs: notebook", "Creating picture and bar graphs"];
+var mm050702 = [
+  "Reading bar graphs: dog bones",
+  "Reading bar graphs: bikes",
+  "Creating picture and bar graphs"
+];
+
+var mm0507 = [
+  "Picture graphs",
+  mm050701,
+  "Bar graphs",
+  mm050702,
+];
+
+var mm050801 = ["Metric system: units of distance"];
+var mm050802 = ["Understanding volume (liters)", "Word problems with volume"];
+var mm050803 = ["Understanding mass (grams and kilograms)", "Word problems with mass"];
+var mm050804 = ["Converting units: metric distance", "Converting units: centimeters to meters"];
+
+var mm0508 = [
+  "Length",
+  mm050801,
+  "Volume",
+  mm050802,
+  "Mass",
+  mm050803,
+  "Conversions",
+  mm050804,
+];
+
+var mm050901 = ["Angles: introduction", "Naming angles"];
+var mm050902 = ["Measuring angles using a protractor", "Measuring angles using a protractor 2"];
+var mm050903 = ["Acute, right, & obtuse angles", "Recognizing angles", "Angle types review"];
+
+var mm0509 = [
+  "Angle introduction",
+  mm050901,
+  "Measuring angles",
+  mm050902,
+  "Angle types",
+  mm050903,
+];
+
+var mm050A01 = [
+  "Intro to area and unit squares",
+  "Measuring rectangles with different unit squares"
+];
+var mm050A02 = [
+  "Creating rectangles with a given area 1",
+  "Creating rectangles with a given area 2",
+];
+var mm050A03 = ["Transitioning from unit squares to area formula"];
+var mm050A04 = [
+  "Finding mission side when given area",
+  "Counting unit squares to find area formula",
+];
+var mm050A05 = ["Perimeter: introduction"];
+
+var mm050A = [
+  "Count unit squares to find area",
+  mm050A01,
+  "Creating rectangles with given area",
+  mm050A02,
+  "Area of rectangles",
+  mm050A03,
+  "Area of rectangles more problems",
+  mm050A04,
+  "Intro to perimeter",
+  mm050A05,
+];
+var mm050B01 = [
+  "Factors and multiples: days of the week",
+  "Math patterns: toothpicks",
+];
+var mm050B02 = ["Patterns in hundreds chart", "Patterns in multiplication tables"];
+
+var mm050B = [
+  "Pattern 1",
+  mm050B01,
+  "Pattern 2",
+  mm050B02,
+];
+
+var mm05 = [
+  "Addition and subtraction",
+  mm0501,
+  "Multiplication",
+  mm0502,
+  "Division",
+  mm0503,
+  "Parts and wholes",
+  mm0504,
+  "Tenths and Hundredths",
+  mm0505,
+  "Factors and multiples",
+  mm0506,
+  "Smart charts",
+  mm0507,
+  "How big? How heavy?",
+  mm0508,
+  "Shapes and angles",
+  mm0509,
+  "Area and its boundary",
+  mm050A,
+  "Identify patterns",
+  mm050B,
+];
 var mm06 = [];
 var mm07 = [];
 var mm08 = [];
